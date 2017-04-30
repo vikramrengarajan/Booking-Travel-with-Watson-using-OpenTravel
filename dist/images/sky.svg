@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg>
+    <metadata id="metadata437">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <sodipodi:namedview id="namedview435" />
+    <defs id="defs3">
+        <style id="style5">
+
+        </style>
+    </defs>
+    <title id="title7">sky SVG</title>
+    <g id="background">
+
+        <g id="sky">
+            </g>
+
+        <g id="cloud3" >
+            <rect id="rect23"  />
+            <circle id="circle25" />
+            <circle id="circle27" />
+            <circle id="circle29"  />
+            <circle id="circle31"/>
+        </g>
+
+        <g id="cloud6">
+                  </g>
+        <rect id="cloud5" />
+        <g id="cloud4" >
+                    </g>
+        <g id="cloud2" >
+        </g>
+        <g id="cloud1">
+              </g>
+    </g>
+</svg>

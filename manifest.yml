@@ -1,0 +1,16 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 2
+  domain: mybluemix.net
+  name: Chatbotopentravelv1
+  host: Chatbotopentravelv1
+  disk_quota: 2048M
+  services:
+  - Conversation-pm
+  - Speech to Text-9k
+  - availability-monitoring-auto
+  - Text to Speech-pn
+  - Tone Analyzer-55
+  env:
+    WORKSPACE_ID: <workspace>
